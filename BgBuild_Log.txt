@@ -1,0 +1,6 @@
+// Copyright 2020 Silicon Laboratories, Inc.
+//
+//
+
+Executing: bgbuild (/home/brian/Downloads/SimplicityStudio_v4/developer/sdks/gecko_sdk_suite/v2.7/protocol/bluetooth/bin/bgbuild)
+
